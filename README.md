@@ -10,7 +10,7 @@ I'm going to learn how to use Arduino, and make awesome things with it.
 ## HelloArduino
 
 ### Description & Code
-* [Here's my code in Arduino](https://create.arduino.cc/editor/wmorela54/65ef7f91-7edf-4fe1-95c3-4c162d9c76e7/preview)
+
 ### Evidence
 * [HelloArduino](https://create.arduino.cc/editor/wmorela54/65ef7f91-7edf-4fe1-95c3-4c162d9c76e7/preview)
 ### Image or Wiring
