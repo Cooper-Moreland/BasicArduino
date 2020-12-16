@@ -43,4 +43,22 @@ For this assignment I had to make an LED blink 5 times then stop. The code was a
 
 I enjoyed learning how to add specifications to my LED blinks and others on the internet made it much easier.
 
+# Variable LED Blink
 
+### Description & Code
+
+For this assignment we had to make an LED blink at a beginning pace, then slowly raise the speed of the LED blinks. I had to ask for help for this assignment but after I had the problem fixed the code ran smoothly.
+
+### Evidence
+
+[Variable LED Blink Code](https://create.arduino.cc/editor/wmorela54/301b59f9-3a71-412a-8f8a-d59c38aa863b/preview)
+
+### Image or Wiring
+
+No wiring needed for this one, the LED on the arduino will blink.
+
+### Reflection
+
+I enjoyed having a challenge with my coding and fixing an issue that I previously had in my code.
+
+# One Button One LED
