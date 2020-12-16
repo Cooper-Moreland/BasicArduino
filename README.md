@@ -6,7 +6,8 @@ I'm going to learn how to use Arduino, and make awesome things with it.
 * [TableofContents](#TableofCOntents)
 * [HelloArduino](#HelloArduino)
 * [FiniteLEDBlink](#FiniteLEDBlink)
-
+* [VariableLEDBlink](#VariableLEDBlink)
+* [OneButtonOneLED](#OneButtonOneLED)
 ## HelloArduino
 
 ### Description & Code
@@ -43,7 +44,7 @@ For this assignment I had to make an LED blink 5 times then stop. The code was a
 
 I enjoyed learning how to add specifications to my LED blinks and others on the internet made it much easier.
 
-# Variable LED Blink
+# VariableLEDBlink
 
 ### Description & Code
 
@@ -61,4 +62,4 @@ No wiring needed for this one, the LED on the arduino will blink.
 
 I enjoyed having a challenge with my coding and fixing an issue that I previously had in my code.
 
-# One Button One LED
+# OneButtonOneLED
