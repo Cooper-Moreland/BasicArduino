@@ -11,6 +11,8 @@ I'm going to learn how to use Arduino, and make awesome things with it.
 
 ### Description & Code
 
+For this assignment we had to have an LED blink on and off and say "Hello!" Wiring up the light was fairly easy but make sure to have a resistor.
+
 ### Evidence
 
 [HelloArduino](https://create.arduino.cc/editor/wmorela54/65ef7f91-7edf-4fe1-95c3-4c162d9c76e7/preview)
@@ -21,10 +23,13 @@ I'm going to learn how to use Arduino, and make awesome things with it.
 
 ### Reflection
 
+This was my first assignment involving code and I had fun making a code of my own, even if it was a simple one.
 
 # FiniteLEDBlink
 
 ### Description & Code
+
+For this assignment I had to make an LED blink 5 times then stop. The code was a little more complex than the previous assignment, but it was still easy once i looked at other peoples' codes for guidelines.
 
 ### Evidence
 
@@ -35,3 +40,7 @@ I'm going to learn how to use Arduino, and make awesome things with it.
 <img src="https://github.com/Cooper-Moreland/BasicArduino/blob/main/FiniteLED.jpg?raw=true" alt="Finite LED" width="400">
 
 ### Reflection
+
+I enjoyed learning how to add specifications to my LED blinks and others on the internet made it much easier.
+
+
